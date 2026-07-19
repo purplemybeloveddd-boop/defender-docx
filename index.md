@@ -1,6 +1,6 @@
 # Defender Documentation
 
-Welcome to Defender's documentation.
+Defender Homepage for Terms and Privacy Policy.
 
-- [Privacy Policy](Privacy%20Policy.md)
-- [Terms of Service](Terms.md)
+- [Privacy Policy](privacy/)
+- [Terms of Service](terms/)
