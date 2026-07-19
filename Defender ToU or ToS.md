@@ -171,38 +171,44 @@ Questions regarding these Terms may be directed through Defender's official supp
 
 ---
 
-**16. Intellectual Property**
+# **16. Intellectual Property**
 
-* Defender Bot, its source code (unless otherwise stated), branding, logos, artwork, documentation, and proprietary features remain the intellectual property of the Defender development team.
-* Purchasing a subscription grants a license to use premium features and does not transfer ownership of the software or its intellectual property.
+Defender Bot, its source code (unless otherwise stated), branding, logos, artwork, documentation, and proprietary features remain the intellectual property of the Defender development team.
 
----
-
-**17. Third-Party Services**
-
-* Defender relies on Discord and may use trusted third-party providers for hosting, databases, storage, analytics, or infrastructure.
-* Defender is not responsible for outages, policy changes, or service interruptions caused by third-party providers or Discord itself.
+Purchasing a subscription grants a license to use premium features and does not transfer ownership of the software or its intellectual property.
 
 ---
 
-**18. User Responsibility**
+# **17. Third-Party Services**
 
-* Server owners and administrators are responsible for properly configuring Defender.
-* Misconfiguration, disabled permissions, removed roles, or incorrect settings may reduce Defender's effectiveness.
-* Users are responsible for ensuring Defender has the permissions required for its configured features.
+Defender relies on Discord and may use trusted third-party providers for hosting, databases, storage, analytics, or infrastructure.
 
----
-
-**19. Force Majeure**
-
-* Defender shall not be liable for delays or failures caused by events beyond reasonable control, including but not limited to natural disasters, power outages, internet failures, cyberattacks, infrastructure failures, government actions, or Discord service interruptions.
+Defender is not responsible for outages, policy changes, or service interruptions caused by third-party providers or Discord itself.
 
 ---
 
-**20. Governing Law**
+# **18. User Responsibility**
 
-* These Terms shall be governed by the applicable laws of the jurisdiction in which the Defender service is operated, unless otherwise required by applicable law.
-* If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+Server owners and administrators are responsible for properly configuring Defender.
+
+Misconfiguration, disabled permissions, removed roles, or incorrect settings may reduce Defender's effectiveness.
+
+Users are responsible for ensuring Defender has the permissions required for its configured features.
+
+---
+
+# **19. Force Majeure**
+
+Defender shall not be liable for delays or failures caused by events beyond reasonable control, including but not limited to natural disasters, power outages,
+internet failures, cyberattacks, infrastructure failures, government actions, or Discord service interruptions.
+
+---
+
+# **20. Governing Law**
+
+These Terms shall be governed by the applicable laws of the jurisdiction in which the Defender service is operated, unless otherwise required by applicable law.
+
+If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
 ---
 
