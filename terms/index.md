@@ -81,25 +81,23 @@ Server owners remain responsible for managing their own communities and maintain
 
 ---
 
-# 7. Subscription and Licensing
+# 7. Licensing
 
-Certain Defender features may require an active subscription or license.
+Defender's licensing system is used to recognize and identify servers whose owners have chosen to financially support the development of Defender.
 
-Subscriptions grant access to licensed features only and do not transfer ownership of Defender or its intellectual property.
+A license serves as proof that a server has an active supporter status. It does not transfer ownership of Defender or any of its intellectual property.
 
-Subscriptions may expire, be revoked for abuse, or be modified as described by Defender's licensing policies.
+Licenses may expire, be revoked for abuse, or otherwise be modified in accordance with Defender's licensing policies.
 
 ---
 
 # 8. Defender Branding
 
-The nicknames **"LICENSED PRODUCT"** and **"UNLICENSED PRODUCT"** are official Defender branding used to indicate the licensing status of the bot within a server.
+The nicknames "LICENSED PRODUCT" and "UNLICENSED PRODUCT" are official Defender branding used to indicate whether the server has an active Defender license.
 
-These names are **not advertisements** and are intended solely to identify whether the server is using a licensed version of Defender.
+These nicknames are informational only and are not intended as advertisements or endorsements.
 
-Server owners, administrators, and moderators agree **not to intentionally rename, alter, spoof, or misrepresent Defender's official licensing nickname.**
-
-Repeated attempts to modify Defender's official licensing nickname may result in Defender automatically restoring its official nickname, issuing warnings, disabling certain functionality, or voluntarily leaving the server if configured to do so.
+Server owners, administrators, moderators, and users agree not to intentionally rename, alter, spoof, remove, or misrepresent Defender's official licensing nickname. Defender may automatically restore its official nickname or take other protective actions if repeated attempts to modify it are detected.
 
 ---
 
